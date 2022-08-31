@@ -27,67 +27,16 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjongah&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 
-<br/>
+<h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
+ 
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a></p>
+<p align="center"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a></p>
 
-<h2>My popular videos</h2>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=TTLHd3IyErM&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="2022 웹개발 로드맵 총정리 (공부순서 알려드림) | 올해는 정말 해보자 🚀">
-          <img align="center" src="https://img.youtube.com/vi/TTLHd3IyErM/0.jpg" width="300" alt-text="Frontend Roadmap">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/watch?v=wcsVjmHrUQg&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="자바스크립트 배우기전 꼭 봐야할 영상">
-          <img align="center" src="https://img.youtube.com/vi/wcsVjmHrUQg/0.jpg" width="300" alt-text="">
-        </a>
-      </td>
-      <td>
-        <a href="http://www.youtube.com/watch?v=Z9dvM7qgN9s" title="깃, 깃허브 제대로 배우기 (기본 마스터편, 실무에서 꿀리지 말자)">
-        <img align="center" src="https://img.youtube.com/vi/Z9dvM7qgN9s/0.jpg" width="300" alt-text="Git tutorial">
-          </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<b><em><a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">More videos...</a></em></b>
 
-<br/>
-<br/>
+<h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
 
-<h2>My popular courses</h2> 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://academy.dream-coding.com/courses/react-basic" title="리액트 개념 정리 + 유튜브 클론 코딩 외 실전 프로젝트 완성">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/courses/934247/YHsNXQEYRbOEns6ISYIu_React%20Course%20Thumbnail.png" width="300" alt-text="React Course">
-        </a>
-      </td>
-      <td>
-        <a href="https://academy.dream-coding.com/courses/typescript" title="타입스크립트 + 객체지향 프로그래밍 마스터">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/CCujpdfRGCa48lfjCmyg_TypeScript%20Course%20Thumbnail%20%284%29.png" width="300" alt-text="TypeScript Course">
-        </a>
-      </td>
-      <td>
-        <a href="https://academy.dream-coding.com/courses/node" title="노드로 배우는 백엔드 A-Z (익스프레스, 데이터베이스, 트위터 클론코딩)">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/courses/1375371/7iZPtc2VQpGko36mQlZR_thumbnail.png" width="300" alt-text="NodeJS Course">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<b><em><a href="https://academy.dream-coding.com">Study with me!</a></em></b>
-
----
-
-<p align="center">
-  <a href="https://github.com/dream-ellie" title="GitHub Dream Ellie">
-    <img src="https://img.shields.io/github/followers/donghyeok1?style=social" height="30"/>
-  </a>
-  <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC" title="드림코딩 by 엘리">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_4u-bXaba7yrRz_6x6kb_w?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
-  </a>
-</p>
+<p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://wonjongah.tistory.com/"/></a>  <a href="mailto:wonjongah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a></p>
