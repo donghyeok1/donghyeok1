@@ -7,7 +7,8 @@
 <br />
 <br />
 <br />
-<h1> Hi, I'm Donghyeok, Choi <img align="center" src="https://user-images.githubusercontent.com/95459089/187596575-166e1a29-7501-43ea-8955-6acf18a6344d.png" height="100"></h1>
+<img align="center" src="https://user-images.githubusercontent.com/95459089/187596575-166e1a29-7501-43ea-8955-6acf18a6344d.png" height="100"></h1>
+<h1> Hi, I'm Donghyeok, Choi 
 
 
 <h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
