@@ -12,3 +12,7 @@
     </h3>
   </em>
 </p>
+<br />
+<h2> My tech stack </h2>
+
+![HTML5](https://img.shields.io/badge/-HTML5-green?style=flat&logo=appveyor)
