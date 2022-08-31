@@ -5,19 +5,10 @@
 <p>
   <em>
     <h3>
-      Content Creator at 
+      My blog is  
         <a href="https://donghyeok1.github.io/">
           Github blog
         </a>
     </h3>
-  </em>
-  <em>
-  <h3>
-    Instructor at 
-    <a href="https://donghyeok1.github.io/">
-      Donghyeok's blog
-    </a>
-  </h3>
-    </em>
   </em>
 </p>
